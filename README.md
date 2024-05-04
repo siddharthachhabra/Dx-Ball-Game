@@ -1,4 +1,4 @@
-dxball
+DX Ball Game
 ======
 
-A java clone of game dx ball
+DX Ball game in Java
